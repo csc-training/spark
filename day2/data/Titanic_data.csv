@@ -1,4 +1,4 @@
-id,PClass,Age,Sex,Survived,SexCode
+id,PClass,Age,Gender,Survived,GenderCode
 1,1st,29,female,1,1
 2,1st,2,female,0,1
 3,1st,30,male,0,0
